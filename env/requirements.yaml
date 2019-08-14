@@ -13,3 +13,6 @@ dependencies:
 - name: jx-neusprojekt
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-testbeforedemo
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
